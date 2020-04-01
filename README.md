@@ -1,5 +1,7 @@
 # Wordpress dummy theme
 
+This is basic wordpress theme for developers to get start their projects.
+
 ### Theme Support
 
 * Header & Footer
