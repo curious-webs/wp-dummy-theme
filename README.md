@@ -1,5 +1,12 @@
 # Wordpress dummy theme
 
+## CSS & JS Support
+
+* [Bootstrap 4](https://wordpress.org/plugins/contact-form-7/) - For css grids and styles
+* [Font-Awesome 4](https://wordpress.org/plugins/ns-featured-posts/) - For including icons
+* [jQuery 3.4.1](https://wordpress.org/plugins/wordpress-seo/) - Used for jQuery
+* [Owl Carousel](https://wordpress.org/plugins/wordpress-seo/) - owl carousel for sliders
+
 
 
 ## Plugins Required
