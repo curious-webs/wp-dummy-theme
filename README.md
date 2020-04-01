@@ -30,3 +30,10 @@ This is basic wordpress theme for developers to get start their projects.
 * [NS Featured Post](https://wordpress.org/plugins/ns-featured-posts/) - For Featured posts displaying on home page
 * [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Used for seo purposes
 * [Duplicate Page](https://wordpress.org/plugins/duplicate-page/) -  To duplicate pages
+
+### Installation Guidelines
+
+* Install above said plugins
+* Download zip folder and extract this to your wordpress project /wp-content/themes/ folder
+* Go to Dashboard and click on appearance -> themes folder and active dummytheme or whatever name you gave it to it.
+* Now you can customize and design according to your requirements.
