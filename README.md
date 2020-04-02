@@ -30,6 +30,7 @@ This is basic wordpress theme for developers to get start their projects.
 * [NS Featured Post](https://wordpress.org/plugins/ns-featured-posts/) - For Featured posts displaying on home page
 * [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Used for seo purposes
 * [Duplicate Page](https://wordpress.org/plugins/duplicate-page/) -  To duplicate pages
+* [CPT UI](https://wordpress.org/plugins/custom-post-type-ui/) - If Required (for creating custom post types and taxonomies)
 
 ### Installation Guidelines
 
