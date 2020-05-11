@@ -411,4 +411,10 @@ function dynamicloadmore() {
  
 add_action('wp_ajax_nopriv_dynamicloadmore', 'dynamicloadmore');
 add_action('wp_ajax_dynamicloadmore', 'dynamicloadmore');
-
+/*** To include comment scripts***/
+function wpse52737_enqueue_comment_reply_script() {
+    if ( get_option( 'thread_comments' ) ) {
+        wp_enqueue_script( 'comment_reply' );
+    }
+}
+add_action( 'comment_form_before', 'wpse52737_enqueue_comment_reply_script' );
